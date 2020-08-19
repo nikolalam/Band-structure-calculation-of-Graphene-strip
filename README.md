@@ -6,3 +6,5 @@ It contains the following model:
 2. graphene ribbon with mass breaking term
 3. Haldane model
 4. Kane-Mele Model
+
+Python was used to write these scripts and the numpy and matplot are required package when you run the code. You can directly copy the script and paste on your editor to run it. 
