@@ -50,7 +50,7 @@ for i in range( len(x_val) ):
 plt.figure(1)
 for i in range(D):
     plt.plot( x_val, y_val[i] , color='black')
-plt.ylim(-1, 1)
+#plt.ylim(-1, 1)
 plt.title( 'Energy spectrum of Haldane graphene ribbon  vs ' r"$k_{x}$" 'with' r"$|M| < |3t_{2}\sqrt{3}sin\phi|$")
 plt.xlabel(r"$k_{x}$")
 plt.ylabel('Energy' r"$\quad E(k_{x})$")
